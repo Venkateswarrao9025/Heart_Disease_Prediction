@@ -71,4 +71,4 @@ Among the implemented models, Random Forest Classifier achieved the highest accu
 
 💡 Conclusion
 
-This project demonstrates the potential of machine learning in the medical field, especially for early detection of critical diseases like heart disease. By analyzing patient data, this tool can serve as a decision-support system for healthcare professionals.
+This project demonstrates the potential of machine learning in the medical field, especially for early detection of critical diseases like heart disease. By analyzing patient data, this tool can serve as a decision-support system for healthcare professionals around the world.
